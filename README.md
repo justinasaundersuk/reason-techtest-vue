@@ -1,5 +1,9 @@
 # reason-techtest-vue
 
+## Project navigation
+<p>Use primary navigation to see vue router navigating between pages of lorem ipsum text.</p>
+<p>Scroll to bottom of any page to see output of vuex store.</p>
+
 ## Project setup
 ```
 npm install
